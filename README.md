@@ -112,10 +112,12 @@ python app.py
 
 ---
 
-## 📤 Optional Live Demo
+## 🚀 Live Demo
 
-If deployed:
-👉 [Click here to use the Live Loan Predictor](https://your-deployed-app-link)
+👉 Try the app here: [Bank Loan Prediction](https://huggingface.co/spaces/karthik-lakkimsetti/bank-loan-predictor)
+
+This ML app is deployed using **Gradio** on **Hugging Face Spaces**. It predicts whether a customer is eligible for a bank loan based on input details such as income, age, education, etc.
+
 
 ---
 
