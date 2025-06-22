@@ -68,7 +68,8 @@ python app.py
 
 ## 🌍 Sample UI Preview
 
-![Gradio UI Screenshot](preview.png)
+![Gradio UI Screenshot](Screenshot_UI.png)
+
 
 ---
 
