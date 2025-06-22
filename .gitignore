@@ -1,0 +1,16 @@
+# Ignore virtual environment
+bankloanapproval/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Model and log files (optional)
+*.pkl
+*.log
+
+# System files
+.DS_Store
+
+# Environment/config
+.env
